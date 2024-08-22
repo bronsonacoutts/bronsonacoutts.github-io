@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Different BIT</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p>Last updated: August 22, 2024</p>
+        
+        <p>Welcome to Different BIT's Privacy Policy. Your privacy is critically important to us.</p>
+
+        <h2>Information We Collect</h2>
+        <p>We collect various types of information in connection with the services we provide, including:</p>
+        <ul>
+            <li><strong>Personal Information:</strong> This may include your name, email address, phone number, and other contact information.</li>
+            <li><strong>Technical Data:</strong> Information about your device, IP address, browser type, and usage data may be collected to improve our services.</li>
+            <li><strong>Cookies and Tracking Technologies:</strong> We use cookies and similar technologies to enhance your experience and gather information about usage patterns.</li>
+        </ul>
+
+        <h2>How We Use Your Information</h2>
+        <p>We use the information we collect for the following purposes:</p>
+        <ul>
+            <li>To provide and maintain our services.</li>
+            <li>To notify you about changes to our services.</li>
+            <li>To provide customer support.</li>
+            <li>To monitor the usage of our services.</li>
+            <li>To detect, prevent, and address technical issues.</li>
+            <li>To comply with legal obligations and protect our legal rights.</li>
+        </ul>
+
+        <h2>Sharing Your Information</h2>
+        <p>We do not share your personal information with third parties except in the following situations:</p>
+        <ul>
+            <li>With your consent.</li>
+            <li>To comply with legal obligations.</li>
+            <li>To protect and defend the rights or property of Different BIT.</li>
+            <li>To prevent or investigate possible wrongdoing in connection with our services.</li>
+        </ul>
+
+        <h2>Security of Your Information</h2>
+        <p>We take the security of your information seriously and implement appropriate technical and organizational measures to protect your personal data. However, no method of transmission over the internet or method of electronic storage is 100% secure.</p>
+
+        <h2>Your Data Protection Rights</h2>
+        <p>You have the following data protection rights:</p>
+        <ul>
+            <li>Access: You have the right to request a copy of the personal information we hold about you.</li>
+            <li>Correction: You have the right to request that we correct any information you believe is inaccurate.</li>
+            <li>Deletion: You have the right to request that we delete your personal data under certain conditions.</li>
+            <li>Restriction: You have the right to request that we restrict the processing of your personal data under certain conditions.</li>
+            <li>Objection: You have the right to object to our processing of your personal data under certain conditions.</li>
+        </ul>
+
+        <h2>Children's Privacy</h2>
+        <p>Our services are not directed to children under the age of 13, and we do not knowingly collect personal data from children under 13. If we become aware that we have collected personal data from a child under 13, we will take steps to delete that information.</p>
+
+        <h2>Changes to This Privacy Policy</h2>
+        <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.</p>
+
+        <h2>Contact Us</h2>
+        <p>If you have any questions about this Privacy Policy, please contact us:</p>
+        <ul>
+            <li>By email: privacy@differentbit.com</li>
+            <li>By mail: Different BIT, ABN: 54 271 002 707, Brisbane, Australia</li>
+        </ul>
+    </div>
+</body>
+</html>
